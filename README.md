@@ -25,14 +25,12 @@ section](#variables-assignment-and-arithmatic)
 
 
 ## Libraries and Plotting ##
-    -   loading csv data
-    -   getting mean's, max's, min's
-    -   Plotting
-        -   Heatmap
-        -   Trends
 
-
-
+-   loading csv data
+-   getting mean's, max's, min's
+-   Plotting
+    -   Heatmap
+    -   Trends
 
 ## Variables, Assignment, and Arithmatic ##
 
